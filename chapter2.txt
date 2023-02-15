@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asDFASdfasDFASdfasDF
+=======
+omar gets gym membership WOW
+>>>>>>> exp
